@@ -7,3 +7,8 @@ Futures:
 * Shortcode
 * Fast paste shortcode with cickable copy function.
 * Own Api key with demo or full version. (I haven't written this feature yet)
+=Install=
+Copy folder in the wp-content/plugins/ folder, after in wordpress extensions and enabled plugin.
+
+=PS=
+I created this plugin for novice developers who already have minimal php knowledge but have not yet programmed in wordpress.
